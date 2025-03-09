@@ -6,8 +6,9 @@ app = Flask(__name__)
 
 # Pre-selected hard passwords from RockYou.txt
 HARD_PASSWORDS = [
-"caitlyn", "whiskers", "watson", "angel01", "therese", "monster1", "forever21", "crazygirl", "master1", "pazaway", "1princess", "terry", "pangga", "klapaucius", "gemma", "froggie", "felix", "washington", "reading", "qwertyui", "pinkgirl"
+"family", "jonathan", "987654321", "computer", "whatever", "dragon", "vanessa", "cookie", "naruto", "summer", "sweety", "spongebob", "joseph", "junior", "softball", "taylor", "yellow", "daniela", "lauren", "mickey", "princesa"
 ]
+
 
 # Secret modification function (harder to guess)
 def modify_password(password):
