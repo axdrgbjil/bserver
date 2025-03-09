@@ -13,7 +13,7 @@ HARD_PASSWORDS = [
 
 # Secret modification function (harder to guess)
 def modify_password(password):
-    return "X" + password[::-1]  # Change '!' to 'X'
+    return "!" + password[::-1]  # Change '!' to 'X'
 
 # Store hashes in memory for validation
 app.config["STORED_HASHES"] = {}
