@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 # Pre-selected hard passwords from RockYou.txt
 HARD_PASSWORDS = [
-"caitlyn", "whiskers", "watson", "angel01", "therese", "monster1", "forever21", "crazygirl", "master1", "pazaway", "1princess", "terry", "pangga", "klapaucius", "gemma", "froggie", "felix", "washington", "reading", "qwertyui", "pinkgirl"
+"catalina", "147852369", "beckham", "simone", "nursing", "iloveyou!", "eugene", "torres", "damian", "123123123", "joshua1", "bobby", "babyface", "andre", "donald", "daniel1", "panther", "dinamo", "mommy", "juliana", "cassandra"
 ]
 
 
